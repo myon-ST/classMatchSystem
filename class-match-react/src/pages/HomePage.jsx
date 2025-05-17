@@ -8,7 +8,7 @@ function HomePage() {
         {/* ホームページコンテンツ */}
         <section className="hero">
           <h1>クラスマッチ 2025</h1>
-          <p>みんなで競い合い、絆を深める春の大会。クラスの栄光をかけた熱い戦いが今始まる！</p>
+          <p>みんなで競い合い、絆を深める夏の大会。クラスの栄光をかけた熱い戦いが今始まる！</p>
           <a href="/results" className="btn">最新結果を見る</a>
         </section>
 
